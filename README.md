@@ -1,6 +1,6 @@
 # High Diamond Ranked Model
 
-## Atividade 1 - Criando um Modelo Preditivo
+## Atividade 2 - Criando um Modelo Preditivo
 
 ### Por João Victor Fernandes
 
